@@ -1,9 +1,25 @@
 # PyTorch for Deep Learning
 This repository contains the implementation of the exercises and projects from the [Zero to Mastery PyTorch course](https://zerotomastery.io/courses/learn-pytorch/).
 
+It is more about gaining practical hands-on **coding experience** with implementing machine learning models using PyTorch as the framework, which is slightly different from the TensorFlow framework that I have already gained certification in, although the underlying architecture of machine learning models in PyTorch is similar to that of TensorFlow.
+
+## Contents
+The repository is organized in plain `.ipynb` files, each corresponding to a section of the course. Here is an overview of the contents:
+
+* Section 1: Introduction to PyTorch
+* Section 2: PyTorch Fundamentals
+* Section 3: PyTorch Workflow
+* Section 4: PyTorch Neural Network Classification
+* Section 5: PyTorch Computer Vision
+* Section 6: PyTorch Custom Datasets
+* Section 7: PyTorch Going Modular
+* Section 8: PyTorch Transfer Learning
+* Section 9: PyTorch Experiment Tracking
+
 ## Requirements
 * Python 3.x
-* PyTorch 1.12.0 or higher
+* torch 1.12+
+* torchvision 0.13+
 
 ## Installation
 1. Clone this repository: `git clone https://github.com/yourusername/learn-pytorch.git`
